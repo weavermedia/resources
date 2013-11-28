@@ -15,6 +15,7 @@
 - Video Conversion - Elastic Transcoder http://aws.amazon.com/elastictranscoder / Zencoder http://zencoder.com
 - VPS - Digital Ocean https://www.digitalocean.com
 - Git host - Github (public) http://github.com / BitBucket (private) https://bitbucket.org
+- Basecamp
 
 ## Software
 - Sublime Text text-editor
