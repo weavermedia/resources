@@ -29,6 +29,7 @@
 - Pixelmator
 - iDraw
 - Backblaze
+- SuperDuper!
 - nvALT
 - f.lux
 
@@ -42,6 +43,9 @@
 ## Web Design
 
 - Convert images to Base64 - http://daturi.me
-- Convert PS icons to SVG web font $19 - https://creativemarket.com/uiparade/16579-Glifo-PS-Icon-Web-Font-Maker
 - Colours - http://pltts.me / https://kuler.adobe.com
+- Frameworks - [Bootstrap](http://getbootstrap.com) // [FlatUI](http://designmodo.github.io/Flat-UI) // [TukTuk](http://tuktuk.tapquo.com) // [SemanticUI](http://semantic-ui.com)
 
+## Todo
+- Convert PS icons to SVG web font $19 - https://creativemarket.com/uiparade/16579-Glifo-PS-Icon-Web-Font-Maker
+- Sketch
