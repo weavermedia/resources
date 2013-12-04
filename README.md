@@ -18,21 +18,22 @@
 - Basecamp
 
 ## Software
-- Sublime Text text-editor
+- Sublime Text - code editor
 - Source Tree - Git GUI
 - iTerm - terminal with split-screen
-- Tiempo - Pomodoro timer
-- Dropbox
-- Glassboard
-- CodeKit
-- Pixa
-- Photoshop
-- Pixelmator
-- iDraw
-- Backblaze
-- SuperDuper!
-- nvALT
-- f.lux
+- Transmit - FTP / SFTP / S3 awesomeness
+- Tiempo - Pomodoro timer (it really works)
+- Dropbox - storage, sharing and backup
+- Glassboard - discussions
+- CodeKit - HTML/CSS preprocessor compiling
+- Pixa - asset management & screenshots
+- Photoshop - bleh
+- Pixelmator - slightly less bleh
+- iDraw - simple vector stuff (must try Sketch now it's a bit more mature)
+- Backblaze - backups of my backups
+- SuperDuper! - clones of my backups
+- nvALT - note-taking extraordinaire
+- f.lux - stops my eyes bleeding in late-night coding sessions
 
 ## Web Development
 
