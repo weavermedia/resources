@@ -7,6 +7,7 @@
 - Heroku - https://www.heroku.com
 - Install PostgreSQL on Mac - PostgresApp http://postgresapp.com
 - Books - Rails Recipes (Prag) / Rails Test Prescriptions (Prag) / Multi-Tenancy with Rails (LeanPub) / Everyday Rails Testing with Rspec (LeanPub)
+- Uncle Bob's training videos - http://cleancoders.com/
 
 ## Services
 
