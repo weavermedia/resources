@@ -8,19 +8,24 @@
 - Install PostgreSQL on Mac - PostgresApp http://postgresapp.com
 - Books - Rails Recipes (Prag) / Rails Test Prescriptions (Prag) / Multi-Tenancy with Rails (LeanPub) / Everyday Rails Testing with Rspec (LeanPub)
 - Uncle Bob's training videos - http://cleancoders.com/
+- LocomotiveCMS - Object Oriented Content Management :)
+- Spree Commerce - great looking Rails-based eCommerce with extensions for digital downloads and Satripe payments
 
 ## Services
 
-- App hosting - Heroku https://www.heroku.com
+- Heroku web-app hosting - https://www.heroku.com
 - AWS S3 file storage - http://aws.amazon.com/s3/
-- Video Conversion - Elastic Transcoder http://aws.amazon.com/elastictranscoder / Zencoder http://zencoder.com
-- VPS - Digital Ocean https://www.digitalocean.com
-- Git host - Github (public) http://github.com / BitBucket (private) https://bitbucket.org
-- Basecamp
+- AWS Elastic Transcoder video conversion - http://aws.amazon.com/elastictranscoder
+- Zencoder video conversion (expensive) - http://zencoder.com
+- Digital Ocean VPS - https://www.digitalocean.com
+- Github free public code repos - http://github.com
+- BitBucket free private code repos - https://bitbucket.org
+- Basecamp - project management
+- New Relic - web-app monitoring and reporting
 
 ## Software
-- Sublime Text - code editor
-- Source Tree - Git GUI
+- Sublime Text 2 - lovely code editor
+- Source Tree - free Git GUI
 - iTerm - terminal with split-screen
 - Transmit - FTP / SFTP / S3 awesomeness
 - Tiempo - Pomodoro timer (it really works)
