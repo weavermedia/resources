@@ -10,6 +10,7 @@
 - Uncle Bob's training videos - http://cleancoders.com/
 - LocomotiveCMS - Object Oriented Content Management :)
 - Spree Commerce - great looking Rails-based eCommerce with extensions for digital downloads and Satripe payments
+- Rails ERD - automatically generate model diagrams - http://rails-erd.rubyforge.org/
 
 ## Services
 
