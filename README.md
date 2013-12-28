@@ -25,22 +25,21 @@
 - New Relic - web-app monitoring and reporting
 
 ## Software
-- Sublime Text 2 - lovely code editor
-- Source Tree - free Git GUI
-- iTerm - terminal with split-screen
-- Transmit - FTP / SFTP / S3 awesomeness
-- Tiempo - Pomodoro timer (it really works)
-- Dropbox - storage, sharing and backup
-- Glassboard - discussions
-- CodeKit - HTML/CSS preprocessor compiling
-- Pixa - asset management & screenshots
+- Sublime Text 2 - lovely code editor - http://www.sublimetext.com/
+- Source Tree - free Git GUI - http://www.sourcetreeapp.com
+- iTerm - terminal with split-screen - http://www.iterm2.com/
+- Transmit - FTP / SFTP / S3 awesomeness - http://panic.com/transmit/
+- Tiempo - Pomodoro timer (it really works) - http://tiempo.valhalladixie.net/
+- Dropbox - storage, sharing and backup - https://www.dropbox.com/
+- CodeKit - HTML/CSS preprocessor compiling - http://incident57.com/codekit/
+- Pixa - asset management & screenshots - http://www.pixa-app.com/
 - Photoshop - bleh
-- Pixelmator - slightly less bleh
-- iDraw - simple vector stuff (must try Sketch now it's a bit more mature)
-- Backblaze - backups of my backups
-- SuperDuper! - clones of my backups
-- nvALT - note-taking extraordinaire
-- f.lux - stops my eyes bleeding in late-night coding sessions
+- Pixelmator (and the vaguely interesting Vectormator) - slightly less bleh - http://www.pixelmator.com/
+- iDraw - simple vector stuff (with companion iPad app for mobile vector editing!) - http://www.indeeo.com/idraw/
+- Backblaze - backups of my backups - http://www.backblaze.com/
+- SuperDuper! - clones of my backups - http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
+- nvALT - note-taking extraordinaire - http://brettterpstra.com/projects/nvalt/
+- f.lux - stops my eyes bleeding during late-night coding sessions - http://justgetflux.com/
 
 ## Web Development
 
@@ -56,6 +55,6 @@
 - Frameworks - [Bootstrap](http://getbootstrap.com) // [FlatUI](http://designmodo.github.io/Flat-UI) // [TukTuk](http://tuktuk.tapquo.com) // [SemanticUI](http://semantic-ui.com)
 
 ## Todo
-- Convert PS icons to SVG web font $19 - https://creativemarket.com/uiparade/16579-Glifo-PS-Icon-Web-Font-Maker
-- Sketch
+- Glifo - convert PS icons to SVG web font $19 - https://creativemarket.com/uiparade/16579-Glifo-PS-Icon-Web-Font-Maker
+- Sketch - looks like a bandwagon with my name on it
 - http://iconmelon.com
