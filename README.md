@@ -5,11 +5,6 @@
 - Anvil local POW server - http://anvilformac.com
 - RailsCasts - http://railscasts.com
 - Heroku - https://www.heroku.com
-- Install PostgreSQL on Mac - PostgresApp http://postgresapp.com
-- Books - Rails Recipes (Prag) / Rails Test Prescriptions (Prag) / Multi-Tenancy with Rails (LeanPub) / Everyday Rails Testing with Rspec (LeanPub)
-- Uncle Bob's training videos - http://cleancoders.com/
-- LocomotiveCMS - Object Oriented Content Management :)
-- Spree Commerce - great looking Rails-based eCommerce with extensions for digital downloads and Satripe payments
 - Rails ERD - automatically generate model diagrams - http://rails-erd.rubyforge.org/
 
 ## Services
